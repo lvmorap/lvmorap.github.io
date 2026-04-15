@@ -46,4 +46,4 @@ This repository includes `.github/workflows/deploy.yml`.
 
 ## Content updates
 
-Edit `/home/runner/work/lvmorap.github.io/lvmorap.github.io/lib/content.ts` to update profile, experience, education, awards, skills, and links.
+Edit `lib/content.ts` to update profile, experience, education, awards, skills, and links.
